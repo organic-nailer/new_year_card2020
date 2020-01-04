@@ -1,0 +1,46 @@
+[
+  {
+    "family": "Raleway",
+    "fonts": [
+      {
+        "asset": "fonts/Raleway-Regular.ttf"
+      },
+      {
+        "asset": "fonts/Raleway-Italic.ttf",
+        "style": "italic"
+      }
+    ]
+  },
+  {
+    "family": "RobotoMono",
+    "fonts": [
+      {
+        "asset": "fonts/RobotoMono-Regular.ttf"
+      },
+      {
+        "asset": "fonts/RobotoMono-Bold.ttf",
+        "weight": 700
+      }
+    ]
+  },
+  {
+    "family": "NotoSansJP",
+    "fonts": [
+      {
+        "asset": "fonts/NotoSansCJKjp-Regular.otf"
+      },
+      {
+        "asset": "fonts/NotoSansCJKjp-Regular.otf",
+        "weight": 700
+      }
+    ]
+  },
+  {
+    "family": "MaterialIcons",
+    "fonts": [
+      {
+        "asset": "fonts/MaterialIcons-Regular.ttf"
+      }
+    ]
+  }
+]
